@@ -9,7 +9,6 @@
   "bin": {
     "node": "bin/www.js"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "nodemon ./bin/www.js",
     "test": "echo \"Error: no test specified\" && exit 1"
