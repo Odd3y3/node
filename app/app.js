@@ -1,7 +1,8 @@
 //모듈
 const express = require("express");
-//post로 받아온 Body 파싱
+const dotenv = require("dotenv");
 const app = express();
+dotenv.config();
 
 
  

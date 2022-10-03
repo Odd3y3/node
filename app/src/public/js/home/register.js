@@ -1,7 +1,7 @@
 
 
 const id = document.querySelector("#id"),
-name = document.querySelector("#psword"),
+name = document.querySelector("#name"),
 psword = document.querySelector("#psword"),
 confirmPsword = document.querySelector("#confirm-psword"),
 registerBtn = document.querySelector("#button");
